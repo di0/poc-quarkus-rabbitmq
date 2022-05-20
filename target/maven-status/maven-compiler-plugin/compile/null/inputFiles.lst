@@ -1,0 +1,2 @@
+/tmp/poc-quarkus-rabbitmq/src/main/java/org/acme/GreetingResource.java
+/tmp/poc-quarkus-rabbitmq/src/main/java/org/acme/RabbitMQPriceMessageConsumer.java
